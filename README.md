@@ -3,3 +3,4 @@ simple .net core console app to trigger azure fuction everytime someone commits 
 jakevo
 testing 
 ssss
+ewerwrwe
