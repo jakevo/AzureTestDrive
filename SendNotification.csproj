@@ -5,6 +5,10 @@
     <UserSecretsId>ad8b9d15-021c-4d84-a489-9d410a901d80</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\SendNotificationLatest - Zip Deploy.pubxml.user" />
+    <None Include="Properties\PublishProfiles\SendNotificationTest - Zip Deploy.pubxml.user" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.15.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.11" />
     <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
